@@ -1,6 +1,6 @@
 # 🗺️ XplorIA: Asistente Virtual y Guía Local
 
-![Logo](.\images\XplorIA.png)
+![Logo](./images/XplorIA.png)
 
 ----------------------------------------
 
